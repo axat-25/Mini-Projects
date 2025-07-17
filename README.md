@@ -1,3 +1,3 @@
 # Mini-Projects
-Mini-Projects
-This is my first githubrepo  -Author Akshat
+Mini-Projects <br>
+This is my first githubrepo <br>  -Author Akshat
